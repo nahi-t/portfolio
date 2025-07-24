@@ -23,7 +23,7 @@ const Hero = () => {
         <button className='md:inline bg-gradient-to-r from-green-500 to-purple-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300'>
           Contact with Me
         </button>
-        <button className='hidden md:inline bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300'>
+        <button className='hidden md:inline bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300' id='contact'>
           Resume
         </button>
       </div>

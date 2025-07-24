@@ -30,7 +30,7 @@ const Footer = () => {
               <a href="https://github.com/nahi-t" target="_blank" rel="noreferrer">
                 <FaGithub className="hover:text-purple-500" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+              <a href="www.linkedin.com/in/nahom-ketema-975a62334" target="_blank" rel="noreferrer">
                 <FaLinkedin className="hover:text-blue-400" />
               </a>
               <a href="https://twitter.com" target="_blank" rel="noreferrer">
