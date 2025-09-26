@@ -12,7 +12,7 @@ const Hero = () => {
       <h1 className="text-4xl font-bold mb-4">
         I am{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500">
-          Nahom ABU
+          Nahom ABU king
         </span>{" "}
         — Full Stack Developer
       </h1>
