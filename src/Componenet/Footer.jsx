@@ -45,7 +45,7 @@ const Footer = () => {
               <a href="https://youtube.com" target="_blank" rel="noreferrer">
                 <FaYoutube className="hover:text-red-500" />
               </a>
-              <a href="https://t.me/@N_alamtsehay" target="_blank" rel="noreferrer">
+              <a href="@N_alamtsehay" target="_blank" rel="noreferrer">
                 <FaTelegram className="hover:text-blue-400" />
               </a>
               <a href="https://wa.me/yourphonenumber" target="_blank" rel="noreferrer">
