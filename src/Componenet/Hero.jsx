@@ -17,7 +17,7 @@ const Hero = () => {
         — Full Stack Developer
       </h1>
       <p className="mt-4 text-lg bg-white dark:bg-black text-black dark:text-gray-400 max-w-3xl mx-auto">
-        I’m a passionate Full Stack Developer specializing in building dynamic,
+        I’m a passionate Full Stack Mobile and Web Developer specializing in building dynamic,
         scalable, and responsive web applications. With strong skills in React,
         Node.js, and PostgreSQL, I create seamless user experiences backed by
         solid backend logic. I’m always eager to solve problems and explore new

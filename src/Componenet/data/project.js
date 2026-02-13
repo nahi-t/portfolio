@@ -4,6 +4,7 @@ import netflixImg from "../../assets/netflix.png";
 import portfolioImg from "../../assets/images.jpeg";
 import qaImg from "../../assets/qa.jpeg";
 import aboutImg from "../../assets/naki.jpg";
+import portfolioImg2 from "../../assets/ecomers.png";
 
 const projects = [
   {
@@ -35,7 +36,13 @@ const projects = [
     image: aboutImg,
     name: "My GitHub",
     githubRepo: "https://github.com/nahi-t/nahi-t.git",
-  }
+  },
+    {
+    id: 6,
+    image: portfolioImg2,
+    name: "E-Commerce Website",
+    githubRepo: "https://ecommers-weld-mahi.vercel.app/",
+  },
 ];
 
 export default projects;
