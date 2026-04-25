@@ -5,6 +5,9 @@ import portfolioImg from "../../assets/images.jpeg";
 import qaImg from "../../assets/qa.jpeg";
 import aboutImg from "../../assets/naki.jpg";
 import portfolioImg2 from "../../assets/ecomers.png";
+import employe from "../../assets/employe.png";
+import mobileapp from "../../assets/mobileapp.jpg";
+import school from "../../assets/school.png";
 
 const projects = [
   {
@@ -43,6 +46,25 @@ const projects = [
     name: "E-Commerce Website",
     githubRepo: "https://ecommers-weld-mahi.vercel.app/",
   },
+   {
+    id: 7,
+    image: employe,
+    name: "E-Commerce Website",
+    githubRepo: "https://nahom.lovable.app/",
+  },
+   {
+    id: 8,
+    image: mobileapp,
+    name: "my_rent_and move app",
+    githubRepo: "https://github.com/nahi-t/rent-move",
+  },
+  {
+    id: 9,
+    image:school ,
+    name: "school managemant",
+    githubRepo: "https://school-management-system-theta-black-nahi.vercel.app/",
+  },
+
 ];
 
 export default projects;
