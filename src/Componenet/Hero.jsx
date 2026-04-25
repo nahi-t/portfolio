@@ -31,10 +31,11 @@ const Hero = () => {
       </p>
       <div className="mt-8 space-x-4">
         
-        <button className="md:inline bg-gradient-to-r from-green-500 to-purple-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300">
-         <Link to="/contact">Contact</Link>
-
-        </button>
+        <Link to="/contact">
+          <button className="bg-gradient-to-r from-green-500 to-purple-500 text-white px-4 py-2 rounded-full hover:scale-105 transition duration-300">
+            Contact
+          </button>
+        </Link>
         <button
           onClick={downloadResume}
           className="hidden md:inline bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300"
