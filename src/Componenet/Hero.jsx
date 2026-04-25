@@ -1,5 +1,6 @@
 import React from "react";
 import nahi from "../assets/nahi.jpg";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   const downloadResume = () => {
