@@ -11,10 +11,10 @@ export const Navbar = () => {
 
         {/* Nav Links */}
         <ul className="flex space-x-6 text-sm sm:text-base">
-          <li><a href="#home" className="hover:text-gray-400">Home</a></li>
+          <li><a href="#homes" className="hover:text-gray-400">Home</a></li>
           <li><a href="#about" className="hover:text-gray-400">About Me</a></li>
           <li><a href="#projects" className="hover:text-gray-400">Projects</a></li>
-          <li><a href="#contact" className="hover:text-gray-400">Contact</a></li>
+          <li><a href="#contacts" className="hover:text-gray-400">Contact</a></li>
         </ul>
 
         {/* Button */}

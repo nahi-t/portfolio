@@ -10,7 +10,7 @@ const Hero = () => {
   link.click();
 };
   return (
-    <div className="bg-white dark:bg-black text-black dark:text-white text-center p-16">
+    <div className="bg-white dark:bg-black text-black dark:text-white text-center p-16"id='homes'>
       <img
         src={nahi}
         alt="nahom"
@@ -32,11 +32,12 @@ const Hero = () => {
       </p>
       <div className="mt-8 space-x-4">
         
-        <Link to="/contact">
+        
           <button className="bg-gradient-to-r from-green-500 to-purple-500 text-white px-4 py-2 rounded-full hover:scale-105 transition duration-300">
-            Contact
+              <a href="#contacts" className="hover:text-gray-400">Contact</a>
           </button>
-        </Link>
+       
+       
         <button
           onClick={downloadResume}
           className="hidden md:inline bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300"

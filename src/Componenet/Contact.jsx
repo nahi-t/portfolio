@@ -3,7 +3,7 @@ import {FaEnvelope,FaPhone,FaMapMarkerAlt} from 'react-icons/fa'
 
 const Contact = () => {
   return (
-   <div className=" bg-white dark:bg-black text-black dark:text-white py-20 px-4" id="contact">
+<div className="bg-white dark:bg-black text-black dark:text-white py-20 px-4 scroll-mt-24" id="contacts">
          <div className="max-w-screen-xl mx-auto">
            <h2 className="text-4xl font-bold mb-12 text-center">Contact Me</h2>
 
