@@ -30,8 +30,10 @@ const Hero = () => {
         technologies to keep growing as a developer.
       </p>
       <div className="mt-8 space-x-4">
+        
         <button className="md:inline bg-gradient-to-r from-green-500 to-purple-500 text-white px-4 py-2 rounded-full hover:scale-105 transform transition duration-300">
-          Contact with Me
+         <Link to="/contact">Contact</Link>
+
         </button>
         <button
           onClick={downloadResume}
